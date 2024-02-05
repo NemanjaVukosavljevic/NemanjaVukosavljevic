@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer from Serbia, currently working on private projects.
+Web Developer from Serbia
 
 
 # 💻 Tech Stack:
